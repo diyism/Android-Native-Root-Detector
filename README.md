@@ -1,3 +1,5 @@
+似乎被人改过的 Native-root-detector-v6.5.7.apk 旧版更好: https://github.com/diyism/MagiskDetection
+
 # Android-Native-Root-Detector
 A tool to detect root on android
 
